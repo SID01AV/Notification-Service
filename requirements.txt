@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic
+celery
+redis
+aioredis
+boto3
+asyncio
+pika  # for RabbitMQ integration
+python-dotenv  # to load environment variables
